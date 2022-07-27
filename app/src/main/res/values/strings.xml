@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Soccer News</string>
+    <string name="title_news">News</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="todo">TODO</string>
+    <string name="txt_open_link">Open Link</string>
+    <string name="bt_share">TODO</string>
+    <string name="bt_favorite">TODO</string>
+
+</resources>
